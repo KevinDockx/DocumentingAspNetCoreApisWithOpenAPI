@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Finished sample/Marvin.IDP/obj
+/Finished sample/Movies.API/bin/Debug/netcoreapp2.1
+/Finished sample/Movies.API/obj
+/Finished sample/Movies.Client/bin/Debug
+/Finished sample/Movies.Client/obj
+/Finished sample/Movies.Test/bin/Debug/netcoreapp2.1
+/Finished sample/Movies.Test/obj
+/Starter files/.vs/Movies/v15
+/Starter files/Movies.API/bin/Debug/netcoreapp2.1
+/Starter files/Movies.API/obj
+/Starter files/Movies.Client/bin/Debug
+/Starter files/Movies.Client/obj
+/Finished sample/Library.API/bin/Debug/netcoreapp2.2
