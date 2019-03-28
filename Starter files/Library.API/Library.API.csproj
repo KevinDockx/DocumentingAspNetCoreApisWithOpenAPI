@@ -14,11 +14,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="wwwroot\Assets\custom-ui.css" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="wwwroot\Assets\custom-ui.css" />
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="wwwroot\**" />
   </ItemGroup>
 
   <ItemGroup>
